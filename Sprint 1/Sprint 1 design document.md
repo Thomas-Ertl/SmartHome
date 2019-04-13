@@ -8,10 +8,11 @@
 
 ## Functional Requirements
 
-1. Use Case Name A
-	- Functional Requirement 1
-	- Functional Requirement 2
-	- ... etc.
+1. Smoke Detection Use Case
+	- The users shall be able to activate and deactivate the smoke sensor.
+	- The system shall display the specific location the smoke detected.
+	- The home owner shall be able to manage the access level of family members.
+	- The system shall be able to call 911 when no response from any user.
 2. Use Case Name B		
 	- Functional Requirement 1
 	- Functional Requirement 2
