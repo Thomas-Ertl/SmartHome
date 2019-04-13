@@ -19,7 +19,13 @@
 	- The system shall alarm when unauthorized access to the specific location (door or window) was detected.
 	- Home owner can update his/her personal information and system’s password through control panel or web interface.
 
-3. ... etc. 
+3. Temperature Control Use Case
+	- The user should be able to set individual room temperatures.
+	- The system will display current and user set temperatures based on temperature sensors placed in each room.
+	- The user should be able to set the temperature to automatically change based on the time of day. 
+	- The system will be able to display temperature control options based on the time of day.
+	- The system will display system settings.
+	- The user will be able to access the system settings to edit them such as system date.
 
 ## Database Design
 
