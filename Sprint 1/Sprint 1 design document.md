@@ -13,10 +13,12 @@
 	- The system shall display the specific location the smoke detected.
 	- The home owner shall be able to manage the access level of family members.
 	- The system shall be able to call 911 when no response from any user.
-2. Use Case Name B		
-	- Functional Requirement 1
-	- Functional Requirement 2
-	- ... etc.
+2. Access Detection Use Case		
+	- The users shall be able to activate and deactivate the access sensor.
+	- The home owner shall control the access sensor via simple control panel interface or detail Web interface, locally or remotely.
+	- The system shall alarm when unauthorized access to the specific location (door or window) was detected.
+	- Home owner can update his/her personal information and system’s password through control panel or web interface.
+
 3. ... etc. 
 
 ## Database Design
